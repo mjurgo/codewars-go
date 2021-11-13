@@ -12,3 +12,6 @@ Starting from 8 kyu since I don't know the language yet.
 - Is it a palindrome? (https://www.codewars.com/kata/57a1fd2ce298a731b20006a4)
 - Grasshopper - Check for factor (https://www.codewars.com/kata/55cbc3586671f6aa070000fb)
 - Grasshopper - Messi goals function (https://www.codewars.com/kata/55f73be6e12baaa5900000d4)
+
+### 7 kyu
+- Make a function that does arithmetic! (https://www.codewars.com/kata/583f158ea20cfcbeb400000a)
