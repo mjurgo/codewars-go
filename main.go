@@ -1,15 +1,16 @@
 package main
 
 import (
-	"codewars/kyu8"
+	"codewars/kyu7"
+	// "codewars/kyu8"
 	"fmt"
 )
 
 func main() {
-	fmt.Println(kyu8.CheckForFactor(10, 2))
-	fmt.Println(kyu8.CheckForFactor(63, 7))
-	fmt.Println(kyu8.CheckForFactor(2450, 5))
-	fmt.Println(kyu8.CheckForFactor(24612, 3))
-	fmt.Println(kyu8.CheckForFactor(9, 2))
-	fmt.Println(kyu8.CheckForFactor(653, 7))
+	a1 := []string{"hoqq", "bbllkw", "oox", "ejjuyyy", "plmiis", "xxxzgpsssa", "xxwwkktt", "znnnnfqknaz", "qqquuhii", "dvvvwz"}
+	a2 := []string{"cccooommaaqqoxii", "gggqaffhhh", "tttoowwwmmww"}
+	fmt.Println(kyu7.MxDifLg(a1, a2))
+	s1 := []string{"ejjjjmmtthh", "zxxuueeg", "aanlljrrrxx", "dqqqaaabbb", "oocccffuucccjjjkkkjyyyeehh"}
+	s2 := []string{"bbbaaayddqbbrrrv"}
+	fmt.Println(kyu7.MxDifLg(s1, s2))
 }

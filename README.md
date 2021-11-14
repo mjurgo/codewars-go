@@ -15,3 +15,4 @@ Starting from 8 kyu since I don't know the language yet.
 
 ### 7 kyu
 - Make a function that does arithmetic! (https://www.codewars.com/kata/583f158ea20cfcbeb400000a)
+- Maximum Length Difference (https://www.codewars.com/kata/5663f5305102699bad000056)
