@@ -6,5 +6,6 @@ import (
 )
 
 func main() {
-	fmt.Println(kyu6.Multiple3And5(10))
+	arr := []int{1, 2, 2, 3, 3, 3, 4, 3, 3, 3, 2, 2, 1}
+	fmt.Println(kyu6.FindOdd(arr))
 }
