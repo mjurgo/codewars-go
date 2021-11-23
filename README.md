@@ -20,3 +20,4 @@ Starting from 8 kyu since I don't know the language yet.
 ### 6 kyu
 - Multiples of 3 or 5 (https://www.codewars.com/kata/514b92a657cdc65150000006)
 - Find the odd int (https://www.codewars.com/kata/54da5a58ea159efa38000836)
+- Sum of Digits / Digital Root (https://www.codewars.com/kata/541c8630095125aba6000c00)
