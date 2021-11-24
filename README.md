@@ -16,6 +16,7 @@ Starting from 8 kyu since I don't know the language yet.
 ### 7 kyu
 - Make a function that does arithmetic! (https://www.codewars.com/kata/583f158ea20cfcbeb400000a)
 - Maximum Length Difference (https://www.codewars.com/kata/5663f5305102699bad000056)
+- Two Oldest Ages (https://www.codewars.com/kata/511f11d355fe575d2c000001)
 
 ### 6 kyu
 - Multiples of 3 or 5 (https://www.codewars.com/kata/514b92a657cdc65150000006)
